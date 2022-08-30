@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rapheal Oke-David</h1>
 <h3 align="center">Backend Developer</h3>
 
-- 💬 Ask me about **Python, Django***
+- 💬 Ask me about **Python, Django**
 
-- 📫 How to reach me **developsrapheal28@gmail.com**
+- 📫 How to reach me **rapheal.oked@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

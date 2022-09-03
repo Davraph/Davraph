@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rapheal.oked@gmail.com**
 
-- 📫 Find me about me <p><a href='https://draphdev.com'>https://draphdev.com </a></p>
+- 📫 Website <p><a href='https://draphdev.com'>https://draphdev.com </a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

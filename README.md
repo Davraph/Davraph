@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **rapheal.oked@gmail.com**
 
-- ☁︎ Find out more about me https://draphdev.com/
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

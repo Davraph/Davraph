@@ -1,5 +1,5 @@
 # 💫 About Me:
-Everything Devops/Testing Engineer
+Everything Software/Devops
 🤩 Ready to collaborate on Open source Technologies and anything fascinating
 
 # 💻 Tech Stack:

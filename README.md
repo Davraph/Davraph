@@ -1,6 +1,4 @@
 # 💫 About Me:
-Security Analyst
-🤩 Ready to collaborate on Open source Technologies and anything fascinating
-
+Security Analyst || SOC Tier 2
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
